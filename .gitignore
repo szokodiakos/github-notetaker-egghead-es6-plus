@@ -1,5 +1,6 @@
 ### Custom
-public/**.js
+public/bundle.js
+public/vendor.bundle.js
 
 ### Gitignore.io
 # Created by https://www.gitignore.io/api/node,linux,osx,windows,webstorm,sublimetext
